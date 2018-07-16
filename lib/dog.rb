@@ -1,7 +1,7 @@
 class Dog
 
-def  name=(full_name)
-     @name = full_name
+def  name=(name)
+     @name = name
    end
 
 def name
@@ -16,5 +16,3 @@ def name
       @breed
     end
   end
-
-    
